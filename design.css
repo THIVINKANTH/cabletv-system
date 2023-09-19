@@ -79,6 +79,7 @@
     letter-spacing: 0.02em;
     font-family: Poppins;
     color: #222;
+    text-align: justify;
     overflow: hidden;
 }
 
@@ -99,6 +100,7 @@
     /* width: 334px; */
     width: 296px;
     height: 100%;
+    text-align: center;
     overflow: hidden;
 }
 #card1:hover{
