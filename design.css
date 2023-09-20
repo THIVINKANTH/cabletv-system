@@ -30,6 +30,7 @@
     letter-spacing: 0.02em;
     font-family: Poppins;
     color: #343434;
+    text-align: justify;
     overflow: hidden;
 }
 #headbutton{
@@ -279,7 +280,7 @@ ul{
     background-image: url("images/lastpageback.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     overflow: hidden;
 }
 
