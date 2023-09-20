@@ -3,6 +3,8 @@
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
+   
+    overflow: hidden;
 } 
 .logo{
   color: #FFF;
@@ -95,7 +97,7 @@
     text-decoration: none;
   }
   .create-ac{
-    font-size: 22px;
+    font-size: 15px;
     letter-spacing: 0.01em;
     line-height: 34px;
     font-weight: 500;
